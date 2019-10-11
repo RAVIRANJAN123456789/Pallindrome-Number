@@ -1,4 +1,4 @@
-def pallindrome(num):
+def pallindrome():
   num = int(input("enter a number: "))
  
   temp = num
@@ -13,4 +13,4 @@ def pallindrome(num):
   else:
    print("number is not palindrome")
    
-pallindrome(575)
+pallindrome()
